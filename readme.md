@@ -13,3 +13,5 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 - [Day 1: Not Quite Lisp](./2015/01-Santa.js)
 - [Day 2: I Was Told There Would Be No Math](./2015/02-Wrappingpaper.js)
+- [Day 3: Perfectly Spherical Houses in a Vacuum](./2015/03-Delivery-present.js)
+- [Day 4: The Ideal Stocking Stuffer](./2015/04-Mining.js)

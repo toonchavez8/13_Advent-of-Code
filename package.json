@@ -1,0 +1,22 @@
+{
+  "name": "11_adventofcode",
+  "version": "1.0.0",
+  "description": "project files for advent code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toonchavez8/13_Advent-of-Code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toonchavez8/13_Advent-of-Code/issues"
+  },
+  "homepage": "https://github.com/toonchavez8/13_Advent-of-Code#readme",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
